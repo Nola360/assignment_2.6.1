@@ -1,2 +1,2 @@
-# assignment_2.6.1
-Week 2 - Python assignment 2.6.1
+# assignment_2.9
+Week 2 - Python assignment 2.9
